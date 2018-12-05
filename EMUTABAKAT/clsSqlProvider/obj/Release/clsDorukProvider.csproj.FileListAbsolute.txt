@@ -1,0 +1,4 @@
+C:\Users\ugur.yilmaz\Google Drive\TEAM_FOUNDATION\E-MUTABAKAT\EMUTABAKAT\clsSqlProvider\bin\Release\clsSqlProvider.dll
+C:\Users\ugur.yilmaz\Google Drive\TEAM_FOUNDATION\E-MUTABAKAT\EMUTABAKAT\clsSqlProvider\bin\Release\clsSqlProvider.pdb
+C:\Users\ugur.yilmaz\Google Drive\TEAM_FOUNDATION\E-MUTABAKAT\EMUTABAKAT\clsSqlProvider\obj\Release\clsSqlProvider.dll
+C:\Users\ugur.yilmaz\Google Drive\TEAM_FOUNDATION\E-MUTABAKAT\EMUTABAKAT\clsSqlProvider\obj\Release\clsSqlProvider.pdb

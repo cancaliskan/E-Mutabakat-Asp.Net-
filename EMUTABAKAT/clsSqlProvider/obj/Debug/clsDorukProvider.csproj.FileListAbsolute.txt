@@ -1,0 +1,10 @@
+C:\Users\ugur.yilmaz\Google Drive\TEAM_FOUNDATION\E-MUTABAKAT\EMUTABAKAT\clsSqlProvider\bin\Debug\clsSqlProvider.dll
+C:\Users\ugur.yilmaz\Google Drive\TEAM_FOUNDATION\E-MUTABAKAT\EMUTABAKAT\clsSqlProvider\bin\Debug\clsSqlProvider.pdb
+C:\Users\ugur.yilmaz\Google Drive\TEAM_FOUNDATION\E-MUTABAKAT\EMUTABAKAT\clsSqlProvider\obj\Debug\clsSqlProvider.dll
+C:\Users\ugur.yilmaz\Google Drive\TEAM_FOUNDATION\E-MUTABAKAT\EMUTABAKAT\clsSqlProvider\obj\Debug\clsSqlProvider.pdb
+C:\Users\ugur.yilmaz\Google Drive\TEAM_FOUNDATION\E-MUTABAKAT\EMUTABAKAT\clsSqlProvider\obj\Debug\clsDorukProvider.csprojResolveAssemblyReference.cache
+F:\EMUTABAKAT\clsSqlProvider\bin\Debug\clsSqlProvider.dll
+F:\EMUTABAKAT\clsSqlProvider\bin\Debug\clsSqlProvider.pdb
+F:\EMUTABAKAT\clsSqlProvider\obj\Debug\clsDorukProvider.csprojResolveAssemblyReference.cache
+F:\EMUTABAKAT\clsSqlProvider\obj\Debug\clsSqlProvider.dll
+F:\EMUTABAKAT\clsSqlProvider\obj\Debug\clsSqlProvider.pdb

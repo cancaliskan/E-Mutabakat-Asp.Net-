@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+<head>
+    <title></title>
+    <script >
+
+        var paster = function () {
+            var myElement = document.getElementByTagName('pasteElement');
+            myElement.onpaste = function (e) {
+                var pastedText = undefined;
+                if (window.clipboardData && window.clipboardData.getData) { // IE
+                    pastedText = window.clipboardData.getData('Text');
+                } else if (e.clipboardData && e.clipboardData.getData) {
+                    pastedText = e.clipboardData.getData('text/plain');
+                }
+                processExcel(pastedText); // Process and handle text...
+                return false; // Prevent the default handler from running.
+            };
+        }
+
+
+        document.addEventListener("paste", function (e) {
+            console.log(e.target.id);
+            var pastedText = undefined;
+            if (window.clipboardData && window.clipboardData.getData) { // IE
+                pastedText = window.clipboardData.getData('Text');
+            } else {
+                var clipboardData = (e.originalEvent || e).clipboardData;
+                if (clipboardData && clipboardData.getData) {
+                    pastedText = clipboardData.getData('text/plain');
+                }
+                e.preventDefault();
+               //e.target.value = "You just pasted '" + pastedText + "'";
+                Session["PastedToExcel"] = pastedText;
+                alert( "You just pasted '" + pastedText + "'");
+                return false;
+            }
+        });
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
